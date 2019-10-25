@@ -1,0 +1,229 @@
+\documentclass[a4paper, 12pt]{article} 
+\usepackage[top=2.5cm, bottom=2.5cm, left=3cm, right=3cm, includefoot]{geometry} % Geometry of the page
+
+\usepackage{graphicx} % Figures inside text
+\usepackage{titlesec} % For editing titles
+\usepackage{longtable} % For creating page wide tables
+\usepackage{multirow} % Needed for merging multiple rows in a table 
+\usepackage{todonotes} % For adding todo notes in the work
+\usepackage{url} % For using URLs
+\usepackage{float} % For formating tables and figures
+\usepackage{blindtext} % Stubs
+\usepackage{pgfplots} % For plotting
+\usepackage[T2A,T1]{fontenc} % For using estonian and russian letters
+\usepackage[utf8]{inputenc} % %UTF8 decoding
+\usepackage{tocloft} % For editing contents
+\usepackage{amssymb} % For square itemized lists
+\renewcommand{\labelitemi}{\tiny$\blacksquare$} %For square itemized lists
+\usepackage{caption} % Used when captioning tables and figures
+\captionsetup{labelsep=period} % Adds period to the end of table or figure
+\usepackage{verbatimbox} %To put program code in the center using Verbatim
+\titlelabel{\thetitle.\quad} % Adds period at the end of titles
+\usepackage{times} % Times type text
+\usepackage{fancyhdr} % Usage of headers and footers 
+\setlength{\parindent}{0cm} % Paragraph intent is set to 0
+\usepackage{setspace} % Used for spacing of text
+\onehalfspacing % 1,5 spacing between lines of text
+\setlength{\parskip}{\baselineskip}
+\setcounter{secnumdepth}{4} % Levels
+\usepackage{hyperref} % clickable references
+\usepackage[]{algorithm2e} % pseudocode
+\usepackage{tikz} % for drawing graphs
+\usetikzlibrary{matrix,chains,positioning,decorations.pathreplacing,arrows}
+\usepackage{amsmath} % Math symbols
+\usepackage{lastpage} % last page
+\usepackage{listings} % syntax highlight
+\usepackage{enumitem}
+\usepackage{subfig}
+
+% redefine section so that it would start every time on a new page
+\let\stdsection\section
+\renewcommand\section{\newpage\stdsection}
+
+% syntax highlight for vhdl
+\definecolor{black}{rgb}{0,0,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\lstset{frame=tb,
+	language=vhdl,
+	aboveskip=3mm,
+	belowskip=3mm,
+	showstringspaces=false,
+	columns=flexible,
+	basicstyle={\small\ttfamily},
+	numbers=none,
+	numberstyle=\tiny\color{gray},
+	keywordstyle=\color{gray},
+	commentstyle=\color{dkgreen},
+	stringstyle=\color{gray},
+	breaklines=true,
+	breakatwhitespace=true,
+	tabsize=3
+}
+
+
+\begin{document}
+
+%------------------------------TITLE PAGE---------------------------------
+\thispagestyle{fancy} 
+\renewcommand{\headrulewidth}{0pt} 
+\renewcommand{\footrulewidth}{0pt} 
+\headheight = 57pt 
+\headsep = 0pt 
+
+\chead{ 
+ \textsc{\begin{Large}
+	Tallinn University of Technology\\
+	\end{Large} }
+	Faculty of Information Technology\\
+	Department of Cyber Security
+}
+\vspace*{7 cm}
+
+\begin{center} 
+IAY70LT\\[0cm]
+Firstname Lastname 123456 ABCD\\
+\begin{LARGE}
+	\textsc{Title of the Thesis\\}
+%\textsc{Implementing neuroevolution on reprogrammable hardware\\}
+\end{LARGE}
+Master Thesis\\[2cm]
+\end{center}
+
+\begin{flushright} %Joondab teksti paremale
+Supervisor: Firstname Lastname PhD\\
+
+Co-Supervisor: Firstname Lastname MSc\\[0cm]
+
+\end{flushright}
+
+\cfoot{Tallinn <year>}
+%\renewcommand{\headrulewidth}{0pt} %Eemaldab päisest horisontaalse joone
+\pagebreak %Lehe lõpp
+
+%------------------------------TIITELLEHT EST---------------------------------
+\thispagestyle{fancy} %Leht sisaldab päist ja jalust
+\renewcommand{\headrulewidth}{0pt} %Eemaldab päisest horisontaalse joone
+\renewcommand{\footrulewidth}{0pt} %Eemaldab jalusest horisontaalse joone
+\headheight = 57pt %Paneb paika päise laiuse (vastavalt kompilaatori soovitusele)
+\headsep = 0pt %Vähendab päise ja teksti vahelise kauguse nullini
+%\footskip = 10pt %Jaluse ruum
+
+\chead{ %Paigutab järgneva teksti päises keskele
+	\textsc{\begin{Large} %Tekst suurtähtedega ja suuremaks
+			Tallinna tehnikaülikool\\
+		\end{Large} }
+		Infotehnoloogia teaduskond\\
+		Arvutitehnika instituut
+	}
+
+	\vspace*{7 cm} %Tekitab lehe alguse ja teksti vahele tühja ala vastava laiusega
+
+	\begin{center} %Tekst keskele
+		IAY70LT\\[0cm]
+		Firstname Lastname 123456 ABCD\\
+		\begin{LARGE}
+			\textsc{Lõputöö pealkiri\\}
+			%\textsc{Implementing neuroevolution on reprogrammable hardware\\}
+		\end{LARGE}
+		Magistritöö\\[2cm]
+	\end{center}
+
+	\begin{flushright} %Joondab teksti paremale
+		Juhendaja: Firstname Lastname PhD\\
+
+		Kaasjuhendaja: Firstname Lastname MSc\\[0cm]
+
+	\end{flushright}
+
+	\cfoot{Tallinn <year>} %Lisab asukoha ja kuupäeva jalusesse
+	%\renewcommand{\headrulewidth}{0pt} %Eemaldab päisest horisontaalse joone
+	\pagebreak %Lehe lõpp
+
+
+%---------------------------Author's declaration of originality-------------------------
+\section*{\begin{center} Author's declaration of originality \end{center}}
+I hereby certify that I am the sole author of this thesis and that no part of this thesis has been published or submitted for publication.
+All works and major viewpoints of the other authors, data from other sources of literature and elsewhere used for writing this paper have been referenced.
+
+%Autorideklaratsioon on iga lõputöö kohustuslik osa, mis järgneb tiitellehele.
+%Autorideklaratsioon esitatakse järgmise tekstina:
+%
+%Olen koostanud antud töö iseseisvalt. Kõik töö koostamisel kasutatud teiste autorite tööd, olulised seisukohad, kirjandusallikatest ja mujalt pärinevad andmed on viidatud. Käsolevat tööd ei ole varem esitatud kaitsmisele kusagil mujal.
+
+Author: Hannes Kinks
+
+\today
+\pagebreak
+
+%-----------------------------ABSTRACT-----------------------------------
+\section*{\begin{center}
+Abstract
+\end{center}}
+Here goes your abstract...
+
+The thesis is in English and contains \pageref{LastPage} pages of text, 5 chapters, 23 figures, 8 tables.
+\pagebreak
+%---------------------------ANNOTATSIOON---------------------------------
+\section*{\begin{center}
+Annotatsioon
+\end{center}}
+
+Annotatsioon on lõputöö kohustuslik osa, mis annab lugejale ülevaate töö eesmärkidest, olulisematest käsitletud probleemidest ning tähtsamatest tulemustest ja järeldustest. Annotatsioon on töö lühitutvustus, mis ei selgita ega põhjenda midagi, küll aga kajastab piisavalt töö sisu. Inglisekeelset annotatsiooni nimetatakse Abstract, venekeelset aga
+
+Sõltuvalt töö põhikeelest, esitatakse töös järgmised annotatsioonid:
+\begin{itemize}
+\item kui töö põhikeel on eesti keel, siis esitatakse annotatsioon eesti keeles mahuga $\frac{1}{2	}$ A4 lehekülge ja annotatsioon \textit{Abstract} inglise keeles mahuga vähemalt 1 A4 lehekülg;
+\item kui töö põhikeel on inglise keel, siis esitatakse annotatsioon (Abstract)  inglise keeles mahuga $\frac{1}{2}$ A4 lehekülge ja annotatsioon eesti keeles mahuga vähemalt 1 A4 lehekülg;
+\end{itemize}
+
+Annotatsiooni viimane lõik on kohustuslik ja omab järgmist sõnastust:
+
+Lõputöö on kirjutatud inglise keeles ning sisaldab teksti \pageref{LastPage} leheküljel, 5 peatükki, 23 joonist, 8 tabelit.
+\pagebreak
+%---------------------LÜHENDITE JA MÕISTETE SÕNASTIK---------------------
+\section*{Glossary of Terms and Abbreviations}
+
+\begin{tabular}{p{3cm}p{11cm}}
+ATI&TTÜ Arvutitehnika instituut\\
+DPI&\textit{Dots per inch}, punkti tolli kohta
+
+\end{tabular}
+\pagebreak
+%----------------------------Contents----------------------------------
+\tableofcontents
+\newpage
+%----------------------List of figures-------------------------------
+\listoffigures
+\pagebreak
+%----------------------List of tables---------------------------------
+\listoftables
+\pagebreak
+%-----------------------------SISSEJUHATUS-------------------------------
+\section{Introduction}
+\label{Introduction} %Allows referencing titles with \ref 
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=3cm]{img/example.png} % edit the width according to need
+	\caption{Tallinn University of technology \cite{urlSource}}
+	\label{fig:ttuExample}
+\end{figure}
+
+Example of referencing to figure \ref{fig:ttuExample}. Example of citing something \cite{urlSource}.
+
+\subsection{Subsection}
+Example of subsection
+
+%-------------------------------TOPIC START---------------------------
+\section{First section}
+\section{Second section}
+%-------------------------------CONCLUSION---------------------------
+\section{Conclusion}
+\label{Conclusion} 
+\pagebreak
+
+%-------------------------------Bibliography-------------------------
+\bibliographystyle{ieeetr}
+\footnotesize
+\setstretch{0}
+\bibliography{literature}  % viide bibtex failile (literature.bib)
+\end{document}
