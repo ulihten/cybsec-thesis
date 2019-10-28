@@ -1,0 +1,8 @@
+1. Using statistical and machine learning to help institutions detect suspicious access to electronic health records 
+https://academic.oup.com/jamia/article/18/4/498/2909142#86469735
+
+2. Detecting inappropriate access to electronic health records using collaborative filtering 
+https://link.springer.com/article/10.1007/s10994-013-5376-1#Sec1
+
+3. Flagging and Ranking Suspicious Accesses in Electronic Health Record Systems
+https://etd.library.vanderbilt.edu/available/etd-03262018-133815/unrestricted/hedda.pdf

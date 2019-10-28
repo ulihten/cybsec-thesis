@@ -1,0 +1,54 @@
+\begin{thebibliography}{10}
+
+\bibitem{10.1136/amiajnl-2011-000217}
+A.~A. Boxwala, J.~Kim, J.~M. Grillo, and L.~Ohno-Machado, ``{Using statistical
+  and machine learning to help institutions detect suspicious access to
+  electronic health records},'' {\em Journal of the American Medical
+  Informatics Association}, vol.~18, pp.~498--505, 07 2011.
+
+\bibitem{Menon2014}
+A.~K. Menon, X.~Jiang, J.~Kim, J.~Vaidya, and L.~Ohno-Machado, ``Detecting
+  inappropriate access to electronic health records using collaborative
+  filtering,'' {\em Machine Learning}, vol.~95, pp.~87--101, Apr 2014.
+
+\bibitem{10.1197/jamia.M2547}
+D.~C. Kaelber, A.~K. Jha, D.~Johnston, B.~Middleton, and D.~W. Bates, ``{A
+  Research Agenda for Personal Health Records (PHRs)},'' {\em Journal of the
+  American Medical Informatics Association}, vol.~15, pp.~729--736, 11 2008.
+
+\bibitem{connecting2003personal}
+C.~for Health Personal Health Working~Group {\em et~al.}, ``The personal health
+  working group: final report,'' {\em Markle Foundation}, 2003.
+
+\bibitem{Menachemi2006}
+N.~Menachemi and R.~G. Brooks, ``Reviewing the benefits and costs of electronic
+  health records and associated patient safety technologies,'' {\em Journal of
+  Medical Systems}, vol.~30, pp.~159--168, Jun 2006.
+
+\bibitem{hedda2018flagging}
+M.~S. Hedda, {\em Flagging and Ranking Suspicious Accesses in Electronic Health
+  Record Systems}.
+\newblock PhD thesis, Vanderbilt University, 2018.
+
+\bibitem{BLOBEL2004251}
+B.~Blobel, ``Authorisation and access control for electronic health record
+  systems,'' {\em International Journal of Medical Informatics}, vol.~73,
+  no.~3, pp.~251 -- 257, 2004.
+\newblock Realizing Security into the Electronic Health Record.
+
+\bibitem{4041165}
+L.~{Rostad} and O.~{Edsberg}, ``A study of access control requirements for
+  healthcare systems based on audit trails from access logs,'' in {\em 2006
+  22nd Annual Computer Security Applications Conference (ACSAC'06)},
+  pp.~175--186, Dec 2006.
+
+\bibitem{ferreiraabd2007access}
+A.~FERREIRAabd, C.-C. Ricardo, L.~Antunes, and D.~Chadwick, ``Access control:
+  how can it improve patients’ healthcare?,'' {\em Medical and care
+  compunetics}, vol.~4, no.~4, p.~65, 2007.
+
+\bibitem{Fabbri:2011:EA:2047485.2047486}
+D.~Fabbri and K.~LeFevre, ``Explanation-based auditing,'' {\em Proc. VLDB
+  Endow.}, vol.~5, pp.~1--12, Sept. 2011.
+
+\end{thebibliography}

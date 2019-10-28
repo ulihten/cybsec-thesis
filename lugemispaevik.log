@@ -1,0 +1,74 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.13)  28 OCT 2019 23:59
+entering extended mode
+**./lugemispaevik.tex
+(lugemispaevik.tex
+LaTeX2e <2019-10-01>
+
+("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article
+.cls"
+Document Class: article 2019/08/27 v1.4j Standard LaTeX document class
+
+("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.
+clo"
+File: size12.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (lugemispaevik.aux)
+\openout1 = `lugemispaevik.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+
+Overfull \hbox (14.70586pt too wide) in paragraph at lines 10--10
+[]\OT1/cmr/bx/n/17.28 Detecting In-ap-pro-pri-ate Ac-cess to Elec-tronic
+ []
+
+[1
+
+{C:/Users/Urmo Lihten/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[2]
+Overfull \hbox (18.01189pt too wide) in paragraph at lines 41--41
+\OT1/cmr/bx/n/17.28 for Health-care Sys-tems Based on Au-dit Trails
+ []
+
+[3] (lugemispaevik.bbl [4]) [5] (lugemispaevik.aux) ) 
+Here is how much of TeX's memory you used:
+ 237 strings out of 492452
+ 2982 string characters out of 3117259
+ 65502 words of memory out of 3000000
+ 4675 multiletter control sequences out of 15000+200000
+ 4890 words of font info for 18 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 24i,5n,21p,670b,209s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Urmo Lihten/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Use
+rs/Urmo Lihten/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr10.pfb><C:/Users/Urmo Lihten/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmr12.pfb><C:/Users/Urmo Lihten/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on lugemispaevik.pdf (5 pages, 91380 bytes).
+PDF statistics:
+ 34 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
