@@ -56,4 +56,10 @@ X.~{Li}, Y.~{Xue}, and B.~{Malin}, ``Detecting anomalous user behaviors in
   workflow-driven web applications,'' in {\em 2012 IEEE 31st Symposium on
   Reliable Distributed Systems}, pp.~1--10, Oct 2012.
 
+\bibitem{Zhang:2013:MDP:2555810.2544102}
+H.~Zhang, S.~Mehotra, D.~Liebovitz, C.~A. Gunter, and B.~Malin, ``Mining
+  deviations from patient care pathways via electronic medical record system
+  audits,'' {\em ACM Trans. Manage. Inf. Syst.}, vol.~4, pp.~17:1--17:20, Dec.
+  2013.
+
 \end{thebibliography}
