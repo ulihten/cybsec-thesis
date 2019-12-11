@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.13)  10 DEC 2019 12:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.13)  11 DEC 2019 08:43
 entering extended mode
 **./problem-statement.tex
 (problem-statement.tex
@@ -43,7 +43,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 7.
 
-Overfull \hbox (0.77095pt too wide) in paragraph at lines 18--20
+Overfull \hbox (0.77095pt too wide) in paragraph at lines 19--21
 \OT1/cmr/m/n/12 Health In-for-ma-tion Sys-tem in Es-to-nia holds dif-fer-ent el
 ec-tronic health records
  []
@@ -51,7 +51,7 @@ ec-tronic health records
 [1
 
 {C:/Users/Urmo Lihten/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[2] (problem-statement.aux) ) 
+[2] [3] (problem-statement.aux) ) 
 Here is how much of TeX's memory you used:
  228 strings out of 492452
  2802 string characters out of 3117259
@@ -60,14 +60,14 @@ Here is how much of TeX's memory you used:
  5756 words of font info for 21 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  24i,6n,21p,885b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Urmo Lihten/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Urmo Lihten/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Urm
-o Lihten/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17
-.pfb>
-Output written on problem-statement.pdf (2 pages, 42309 bytes).
+<C:/Users/Urmo Lihten/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Urmo Lihten/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users
+/Urmo Lihten/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mr17.pfb>
+Output written on problem-statement.pdf (3 pages, 50416 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 24 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
