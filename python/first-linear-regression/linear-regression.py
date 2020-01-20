@@ -4,6 +4,9 @@
 # Function
 # f(a,b,c) = 8a + 4b + 3c = y
 
+# Credits: https://medium.com/@randerson112358/a-simple-machine-learning-python-program-bf5d156d2cda
+# made modifications in the function and added possibility for the user to enter the data and let the script predict the outcome of the function.
+
 # Import libraries
 from random import randint
 from sklearn.linear_model import LinearRegression
