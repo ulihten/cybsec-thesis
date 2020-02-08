@@ -83,7 +83,7 @@
 IVCM09/14\\[0cm]
 Urmo Lihten 143912IVCM\\
 \begin{LARGE}
-	\textsc{Detecting Suspicious Accesses and Processes in Electronic Health Record System	\\}
+	\textsc{Detection of Process Abuse and Data Request Misuse on Electronic Health Record System Based on Request Logs 	\\}
 %\textsc{Implementing neuroevolution on reprogrammable hardware\\}
 \end{LARGE}
 Master Thesis\\[2cm]
@@ -122,7 +122,7 @@ Co-Supervisor: Firstname Lastname MSc\\[0cm]
 		IAY70LT\\[0cm]
 		Firstname Lastname 123456 ABCD\\
 		\begin{LARGE}
-			\textsc{Lõputöö pealkiri\\}
+			\textsc{Protsessi kõrvalekallete ja andmepäringute väärkasutuse avastamine Tervise Infosüsteemis päringu logide põhjal\\}
 			%\textsc{Implementing neuroevolution on reprogrammable hardware\\}
 		\end{LARGE}
 		Magistritöö\\[2cm]
@@ -201,22 +201,51 @@ DPI&\textit{Dots per inch}, punkti tolli kohta
 %-----------------------------SISSEJUHATUS-------------------------------
 \section{Introduction}
 \label{Introduction} %Allows referencing titles with \ref 
-\begin{figure}[h]
-	\centering
-	\includegraphics[width=3cm]{img/example.png} % edit the width according to need
-	\caption{Tallinn University of Technology \cite{urlSource}}
-	\label{fig:ttuExample}
-\end{figure}
+Estonian Health Information System gives doctors the ability to send patient data to centralized information system. From there other medical workers and also the patient can view entered documents and information. This also gives doctors and nurses access to private data, when they are doing examinations and other procedures to their patients. 
 
-Example of referencing to figure \ref{fig:ttuExample}. Example of citing something \cite{urlSource}.
+\subsection{Problem statement}
+Since medical staff can view peoples medical historyin Health Information System, this poses security threat of misusing the queried data. All that is needed, to see the information, is the persons identification code. 
 
-\subsection{Subsection}
-Example of subsection
+It is hard to determine, if patient has really turned to them for medical help or not. 
+When in an emergency and patient is un-cooperative or in such state unable to communicate, patients identity has to be confirmed without an persons consent.
+Permission or rights to view patients data is usully given, when the person turns to the doctor with medical issue. 
+Meaning, the permission is not spefically given in the information system and thus allowing view data knowing just the persons personal 
+This allows medical staff to open any persons medical history and view it at any given time whether the person has any medical relationship to that medical staff or does not. 
+
+When a persons private data such as medical information is viewed and used, then there has to be a reason. Even if it wrongly done but is still explainable (wrong identification code submission into the system by accident due to similarities, typing wrongly by mistake or third person has given wrong patient identification code by accident). 
+
+To solve this problem is to detect health records data misusage and errors in the process as early as possible by analyzing Health Information System logs what include data requests and documents sent. Learning about the different processes in which different queries has to be made within patient treatment and data forwarded. This gives the possibility to detect processes and its anomalies - queries and documents sent when not needed or out of the ordinary. Upon problem detection healthcare service provider can be contacted and be questioned, if action was intententional or not. Also to find out the reason. If the misuse is very serious, proper action has to be taken by proper authorities. 
+
+%\begin{figure}[h]
+%	\centering
+%	\includegraphics[width=3cm]{img/example.png} % edit the width according to need
+%	\caption{Tallinn University of Technology \cite{urlSource}}
+%	\label{fig:ttuExample}
+%\end{figure}
+
+%Example of referencing to figure \ref{fig:ttuExample}. Example of citing something \cite{urlSource}.
 
 %-------------------------------TOPIC START---------------------------
-\section{First section}
-Mõni väide \cite{10.1136/amiajnl-2011-000217}
-\section{Second section}
+\section{Approach overview}
+Estonian Health Information System logs every data query and document sent to it as requests. Every response is either data from queried documents and/or from subqueries to other data providers or approvement, that document or data is saved. 
+Before the request reaches to the database, there are multiple layers of services that receive the request and examine it, if the organization is allowed to send it, if its properly constructed to its standard, if the syntax of query is valid and if subqueries to other information systems is needed. When some part of the checks and validations fail to accept the query, proper error message is sent as an response. If data query is too large or query requests data for large period then information system might cancel the query if it takes a long time to respond or its unable to respond. 
+Requests and responses are sent as XML SOAP messages. These contain different object identification codes to classify each document and query. 
+
+Usually every request is made following a certain process. This is agreed upon on an organizational and national level. In information system the process model might be different and needs to be found out. For this process mining tools and machine learning techniques could help to create process models and check conformance. Also detect anomalies is data usage. 
+
+Every request has to be parsed for certain data fields, which give input for the process mining tools to form a process model. After that, a conformance check can be made to find anomalies and machine learning helps to find out data misusages. 
+
+\subsection{Data cleansing}
+
+\subsection{Data representation}
+
+\subsection{...}
+
+\section{Discovering process models}
+
+\subsection{Clustering request types}
+
+
 %-------------------------------CONCLUSION---------------------------
 \section{Conclusion}
 \label{Conclusion} 
