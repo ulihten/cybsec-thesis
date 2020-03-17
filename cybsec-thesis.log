@@ -1,16 +1,14 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.13)  8 FEB 2020 20:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.25)  3 MAR 2020 18:27
 entering extended mode
-**./cybsec-thesis.tex
-(cybsec-thesis.tex
-LaTeX2e <2019-10-01>
-
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article
-.cls"
-Document Class: article 2019/08/27 v1.4j Standard LaTeX document class
-
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.
-clo"
-File: size12.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**cybsec-thesis.tex
+(./cybsec-thesis.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@section=\count81
@@ -24,26 +22,21 @@ File: size12.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geo
-metry.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2018/04/16 v5.8 Page Geometry
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\key
-val.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\i
-fpdf.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\i
-fvtex.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\if
-xetex.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count88
@@ -58,37 +51,29 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen109
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
-
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geo
-metry.cfg"))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\gra
-phicx.sty"
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\gra
-phics.sty"
-Package: graphics 2019/07/20 v1.3b Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\tri
-g.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg
-\graphics.cfg"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 105.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def
-\pdftex.def"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\tit
-lesec.sty"
-Package: titlesec 2019/10/16 v2.13 Sectioning titles
+(/usr/local/texlive/2019/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box27
 \beforetitleunit=\skip43
 \aftertitleunit=\skip44
@@ -99,9 +84,8 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \titlewidthlast=\dimen116
 \titlewidthfirst=\dimen117
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\longta
-ble.sty"
-Package: longtable 2019/02/06 v4.12 Multi-page Table package (DPC)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
 \LTleft=\skip45
 \LTright=\skip46
 \LTpre=\skip47
@@ -118,43 +102,35 @@ Package: longtable 2019/02/06 v4.12 Multi-page Table package (DPC)
 \c@LT@chunks=\count95
 \LT@p@ftn=\toks17
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\mul
-tirow.sty"
-Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+(/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
 \multirow@colwidth=\skip49
 \multirow@cntb=\count96
 \multirow@dima=\skip50
 \bigstrutjot=\dimen119
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/todonotes\to
-donotes.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/todonotes/todonotes.sty
 Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
 Package: todonotes 2018/11/22
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.
-sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkey
-val.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xk
-eyval.tex"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xk
-vutils.tex"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks18
 \XKV@tempa@toks=\toks19
 )
 \XKV@depth=\count97
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolo
-r.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg
-\color.cfg"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -168,51 +144,38 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontend
-layer\tikz.sty"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclay
-er\pgf.sty"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilitie
-s\pgfrcs.sty"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilit
-ies\pgfutil-common.tex"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
 \pgfutil@everybye=\toks20
 \pgfutil@tempdima=\dimen120
 \pgfutil@tempdimb=\dimen121
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilit
-ies\pgfutil-common-lists.tex"))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilit
-ies\pgfutil-latex.def"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box32
-
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.
-sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilit
-ies\pgfrcs.code.tex"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.re
-vision.tex")
-Package: pgfrcs 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2019/04/04 v3.1.2 (3.1.2)
 ))
-Package: pgf 2019/08/03 v3.1.4b (3.1.4b)
+Package: pgf 2019/04/04 v3.1.2 (3.1.2)
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclay
-er\pgfcore.sty"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemla
-yer\pgfsys.sty"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/system
-layer\pgfsys.code.tex"
-Package: pgfsys 2019/08/03 v3.1.4b (3.1.4b)
-
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilit
-ies\pgfkeys.code.tex"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2019/04/04 v3.1.2 (3.1.2)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks21
 \pgfkeys@temptoks=\toks22
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilit
-ies\pgfkeysfiltered.code.tex"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
 \pgfkeys@tmptoks=\toks23
 ))
 \pgf@x=\dimen122
@@ -223,8 +186,6 @@ ies\pgfkeysfiltered.code.tex"
 \pgf@yb=\dimen127
 \pgf@xc=\dimen128
 \pgf@yc=\dimen129
-\pgf@xd=\dimen130
-\pgf@yd=\dimen131
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
 \c@pgf@counta=\count98
@@ -236,230 +197,211 @@ ies\pgfkeysfiltered.code.tex"
 \t@pgf@tokc=\toks26
 \pgf@sys@id@count=\count102
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/system
-layer\pgf.cfg"
-File: pgf.cfg 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2019/04/04 v3.1.2 (3.1.2)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/system
-layer\pgfsys-pdftex.def"
-File: pgfsys-pdftex.def 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2019/04/04 v3.1.2 (3.1.2)
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/system
-layer\pgfsys-common-pdf.def"
-File: pgfsys-common-pdf.def 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2019/04/04 v3.1.2 (3.1.2)
 )))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/system
-layer\pgfsyssoftpath.code.tex"
-File: pgfsyssoftpath.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2019/04/04 v3.1.2 (3.1.2)
 \pgfsyssoftpath@smallbuffer@items=\count103
 \pgfsyssoftpath@bigbuffer@items=\count104
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/system
-layer\pgfsysprotocol.code.tex"
-File: pgfsysprotocol.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2019/04/04 v3.1.2 (3.1.2)
 ))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicl
-ayer\pgfcore.code.tex"
-Package: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
-
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\p
-gfmath.code.tex"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\p
-gfmathcalc.code.tex"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\p
-gfmathutil.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\p
-gfmathparser.code.tex"
-\pgfmath@dimen=\dimen132
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2019/04/04 v3.1.2 (3.1.2)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen130
 \pgfmath@count=\count105
 \pgfmath@box=\box33
 \pgfmath@toks=\toks27
 \pgfmath@stack@operand=\toks28
 \pgfmath@stack@operation=\toks29
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\p
-gfmathfunctions.code.tex"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\p
-gfmathfunctions.basic.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\p
-gfmathfunctions.trigonometric.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\p
-gfmathfunctions.random.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\p
-gfmathfunctions.comparison.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\p
-gfmathfunctions.base.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\p
-gfmathfunctions.round.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\p
-gfmathfunctions.misc.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\p
-gfmathfunctions.integerarithmetics.code.tex")))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\p
-gfmathfloat.code.tex"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count106
 ))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\p
-gfint.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicl
-ayer\pgfcorepoints.code.tex"
-File: pgfcorepoints.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@picminx=\dimen133
-\pgf@picmaxx=\dimen134
-\pgf@picminy=\dimen135
-\pgf@picmaxy=\dimen136
-\pgf@pathminx=\dimen137
-\pgf@pathmaxx=\dimen138
-\pgf@pathminy=\dimen139
-\pgf@pathmaxy=\dimen140
-\pgf@xx=\dimen141
-\pgf@xy=\dimen142
-\pgf@yx=\dimen143
-\pgf@yy=\dimen144
-\pgf@zx=\dimen145
-\pgf@zy=\dimen146
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@picminx=\dimen131
+\pgf@picmaxx=\dimen132
+\pgf@picminy=\dimen133
+\pgf@picmaxy=\dimen134
+\pgf@pathminx=\dimen135
+\pgf@pathmaxx=\dimen136
+\pgf@pathminy=\dimen137
+\pgf@pathmaxy=\dimen138
+\pgf@xx=\dimen139
+\pgf@xy=\dimen140
+\pgf@yx=\dimen141
+\pgf@yy=\dimen142
+\pgf@zx=\dimen143
+\pgf@zy=\dimen144
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicl
-ayer\pgfcorepathconstruct.code.tex"
-File: pgfcorepathconstruct.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@path@lastx=\dimen147
-\pgf@path@lasty=\dimen148
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@path@lastx=\dimen145
+\pgf@path@lasty=\dimen146
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicl
-ayer\pgfcorepathusage.code.tex"
-File: pgfcorepathusage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@shorten@end@additional=\dimen149
-\pgf@shorten@start@additional=\dimen150
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@shorten@end@additional=\dimen147
+\pgf@shorten@start@additional=\dimen148
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicl
-ayer\pgfcorescopes.code.tex"
-File: pgfcorescopes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2019/04/04 v3.1.2 (3.1.2)
 \pgfpic=\box34
 \pgf@hbox=\box35
 \pgf@layerbox@main=\box36
 \pgf@picture@serial@count=\count107
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicl
-ayer\pgfcoregraphicstate.code.tex"
-File: pgfcoregraphicstate.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgflinewidth=\dimen151
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgflinewidth=\dimen149
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicl
-ayer\pgfcoretransformations.code.tex"
-File: pgfcoretransformations.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@pt@x=\dimen152
-\pgf@pt@y=\dimen153
-\pgf@pt@temp=\dimen154
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@pt@x=\dimen150
+\pgf@pt@y=\dimen151
+\pgf@pt@temp=\dimen152
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicl
-ayer\pgfcorequick.code.tex"
-File: pgfcorequick.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicl
-ayer\pgfcoreobjects.code.tex"
-File: pgfcoreobjects.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicl
-ayer\pgfcorepathprocessing.code.tex"
-File: pgfcorepathprocessing.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicl
-ayer\pgfcorearrows.code.tex"
-File: pgfcorearrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfarrowsep=\dimen155
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfarrowsep=\dimen153
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicl
-ayer\pgfcoreshade.code.tex"
-File: pgfcoreshade.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@max=\dimen156
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@max=\dimen154
 \pgf@sys@shading@range@num=\count108
 \pgf@shadingcount=\count109
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicl
-ayer\pgfcoreimage.code.tex"
-File: pgfcoreimage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2019/04/04 v3.1.2 (3.1.2)
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicl
-ayer\pgfcoreexternal.code.tex"
-File: pgfcoreexternal.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2019/04/04 v3.1.2 (3.1.2)
 \pgfexternal@startupbox=\box37
 ))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicl
-ayer\pgfcorelayers.code.tex"
-File: pgfcorelayers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicl
-ayer\pgfcoretransparency.code.tex"
-File: pgfcoretransparency.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicl
-ayer\pgfcorepatterns.code.tex"
-File: pgfcorepatterns.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basicl
-ayer\pgfcorerdf.code.tex"
-File: pgfcorerdf.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/module
-s\pgfmoduleshapes.code.tex"
-File: pgfmoduleshapes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2019/04/04 v3.1.2 (3.1.2)
 \pgfnodeparttextbox=\box38
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/module
-s\pgfmoduleplot.code.tex"
-File: pgfmoduleplot.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatib
-ility\pgfcomp-version-0-65.sty"
-Package: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@nodesepstart=\dimen157
-\pgf@nodesepend=\dimen158
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2019/04/04 v3.1.2 (3.1.2)
+\pgf@nodesepstart=\dimen155
+\pgf@nodesepend=\dimen156
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatib
-ility\pgfcomp-version-1-18.sty"
-Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2019/04/04 v3.1.2 (3.1.2)
 ))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilitie
-s\pgffor.sty"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilitie
-s\pgfkeys.sty"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilit
-ies\pgfkeys.code.tex"))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgf
-math.sty"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\p
-gfmath.code.tex"))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilit
-ies\pgffor.code.tex"
-Package: pgffor 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2019/04/04 v3.1.2 (3.1.2)
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\p
-gfmath.code.tex")
-\pgffor@iter=\dimen159
-\pgffor@skip=\dimen160
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen157
+\pgffor@skip=\dimen158
 \pgffor@stack=\toks30
 \pgffor@toks=\toks31
 ))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fronte
-ndlayer/tikz\tikz.code.tex"
-Package: tikz 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2019/04/04 v3.1.2 (3.1.2)
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/librar
-ies\pgflibraryplothandlers.code.tex"
-File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2019/04/04 v3.1.2 (3.1.2)
 \pgf@plot@mark@count=\count110
-\pgfplotmarksize=\dimen161
+\pgfplotmarksize=\dimen159
 )
-\tikz@lastx=\dimen162
-\tikz@lasty=\dimen163
-\tikz@lastxsaved=\dimen164
-\tikz@lastysaved=\dimen165
-\tikz@lastmovetox=\dimen166
-\tikz@lastmovetoy=\dimen167
-\tikzleveldistance=\dimen168
-\tikzsiblingdistance=\dimen169
+\tikz@lastx=\dimen160
+\tikz@lasty=\dimen161
+\tikz@lastxsaved=\dimen162
+\tikz@lastysaved=\dimen163
+\tikzleveldistance=\dimen164
+\tikzsiblingdistance=\dimen165
 \tikz@figbox=\box39
 \tikz@figbox@bg=\box40
 \tikz@tempbox=\box41
@@ -469,42 +411,40 @@ File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 \tikznumberofcurrentchild=\count113
 \tikz@fig@count=\count114
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/module
-s\pgfmodulematrix.code.tex"
-File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2019/04/04 v3.1.2 (3.1.2)
 \pgfmatrixcurrentrow=\count115
 \pgfmatrixcurrentcolumn=\count116
 \pgf@matrix@numberofcolumns=\count117
 )
 \tikz@expandcount=\count118
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fronte
-ndlayer/tikz/libraries\tikzlibrarytopaths.code.tex"
-File: tikzlibrarytopaths.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fronte
-ndlayer/tikz/libraries\tikzlibrarypositioning.code.tex"
-File: tikzlibrarypositioning.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fronte
-ndlayer/tikz/libraries\tikzlibraryshadows.code.tex"
-File: tikzlibraryshadows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2019/04/04 v3.1.2 (3.1.2)
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fronte
-ndlayer/tikz/libraries\tikzlibraryfadings.code.tex"
-File: tikzlibraryfadings.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2019/04/04 v3.1.2 (3.1.2)
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/librar
-ies\pgflibraryfadings.code.tex"
-File: pgflibraryfadings.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-)))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.s
-ty"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings
+.code.tex
+File: pgflibraryfadings.code.tex 2019/04/04 v3.1.2 (3.1.2)
+))) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count119
 \calc@Bcount=\count120
-\calc@Adimen=\dimen170
-\calc@Bdimen=\dimen171
+\calc@Adimen=\dimen166
+\calc@Bdimen=\dimen167
 \calc@Askip=\skip51
 \calc@Bskip=\skip52
 LaTeX Info: Redefining \setlength on input line 80.
@@ -514,12 +454,11 @@ LaTeX Info: Redefining \addtolength on input line 81.
 )
 \c@@todonotes@numberoftodonotes=\count122
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.
-sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count123
 \float@exts=\toks32
@@ -527,12 +466,10 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks33
 \@floatcapt=\box44
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/blindtext\bl
-indtext.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xspace
-.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 \c@blindtext=\count124
@@ -554,138 +491,137 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@pangramcount=\count140
 \c@blind@pangrammax=\count141
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgfplots\pgf
-plots.sty"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\p
-gfplots.revision.tex")
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
 Package: pgfplots 2018/03/28 v1.16 Data Visualization (1.16)
-
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\p
-gfplots.code.tex"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\p
-gfplotscore.code.tex"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
 \t@pgfplots@toka=\toks34
 \t@pgfplots@tokb=\toks35
 \t@pgfplots@tokc=\toks36
-\pgfplots@tmpa=\dimen172
+\pgfplots@tmpa=\dimen168
 \c@pgfplots@coordindex=\count142
 \c@pgfplots@scanlineindex=\count143
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/s
-ys\pgfplotssysgeneric.code.tex"))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/l
-ibs\pgfplotslibrary.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/o
-ldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/librar
-ies\pgflibraryfpu.code.tex"))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/u
-til\pgfplotsutil.code.tex"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/l
-iststructure\pgfplotsliststructure.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/l
-iststructure\pgfplotsliststructureext.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/l
-iststructure\pgfplotsarray.code.tex"
-\c@pgfplotsarray@tmp=\count144
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric
+.code.tex))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.c
+ode.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
+soldpgfsupp_loader.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.cod
+e.tex)
+Package pgfplots: loading complementary arithmetics for your pgf version...
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
+soldpgfsupp_pgflibraryfpu.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
+soldpgfsupp_pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count144
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code
+.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+liststructure.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+liststructureext.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+array.code.tex
+\c@pgfplotsarray@tmp=\count145
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/l
-iststructure\pgfplotsmatrix.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/n
-umtable\pgfplotstableshared.code.tex"
-\c@pgfplotstable@counta=\count145
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+matrix.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable
+shared.code.tex
+\c@pgfplotstable@counta=\count146
 \t@pgfplotstable@a=\toks37
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/l
-iststructure\pgfplotsdeque.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/u
-til\pgfplotsbinary.code.tex"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/u
-til\pgfplotsbinary.data.code.tex"))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/u
-til\pgfplotsutil.verb.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/l
-ibs\pgflibrarypgfplots.surfshading.code.tex"
-\c@pgfplotslibrarysurf@no=\count146
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+deque.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.co
+de.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.da
+ta.code.tex))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb
+.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplot
+s.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count147
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/s
-ys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def")))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/u
-til\pgfplotscolormap.code.tex"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/u
-til\pgfplotscolor.code.tex"))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\p
-gfplotsstackedplots.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\p
-gfplotsplothandlers.code.tex"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\p
-gfplotsmeshplothandler.code.tex"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\p
-gfplotsmeshplotimage.code.tex")))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\p
-gfplots.scaling.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\p
-gfplotscoordprocessing.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\p
-gfplots.errorbars.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\p
-gfplots.markers.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\p
-gfplotsticks.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\p
-gfplots.paths.code.tex")
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fronte
-ndlayer/tikz/libraries\tikzlibrarydecorations.code.tex"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/module
-s\pgfmoduledecorations.code.tex"
-\pgfdecoratedcompleteddistance=\dimen173
-\pgfdecoratedremainingdistance=\dimen174
-\pgfdecoratedinputsegmentcompleteddistance=\dimen175
-\pgfdecoratedinputsegmentremainingdistance=\dimen176
-\pgf@decorate@distancetomove=\dimen177
-\pgf@decorate@repeatstate=\count147
-\pgfdecorationsegmentamplitude=\dimen178
-\pgfdecorationsegmentlength=\dimen179
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots
+.surfshading.pgfsys-pdftex.def)))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.
+code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.cod
+e.tex))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.c
+ode.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.c
+ode.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandle
+r.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.
+code.tex)))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.
+tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessin
+g.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.cod
+e.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.
+tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.te
+x)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduledecoration
+s.code.tex
+\pgfdecoratedcompleteddistance=\dimen169
+\pgfdecoratedremainingdistance=\dimen170
+\pgfdecoratedinputsegmentcompleteddistance=\dimen171
+\pgfdecoratedinputsegmentremainingdistance=\dimen172
+\pgf@decorate@distancetomove=\dimen173
+\pgf@decorate@repeatstate=\count148
+\pgfdecorationsegmentamplitude=\dimen174
+\pgfdecorationsegmentlength=\dimen175
 )
 \tikz@lib@dec@box=\box45
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fronte
-ndlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/librar
-ies/decorations\pgflibrarydecorations.pathmorphing.code.tex"))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fronte
-ndlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/librar
-ies/decorations\pgflibrarydecorations.pathreplacing.code.tex"))
-\pgfplots@numplots=\count148
-\pgfplots@xmin@reg=\dimen180
-\pgfplots@xmax@reg=\dimen181
-\pgfplots@ymin@reg=\dimen182
-\pgfplots@ymax@reg=\dimen183
-\pgfplots@zmin@reg=\dimen184
-\pgfplots@zmax@reg=\dimen185
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathmorphing.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathmorphing.code.tex))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathreplacing.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathreplacing.code.tex))
+\pgfplots@numplots=\count149
+\pgfplots@xmin@reg=\dimen176
+\pgfplots@xmax@reg=\dimen177
+\pgfplots@ymin@reg=\dimen178
+\pgfplots@ymax@reg=\dimen179
+\pgfplots@zmin@reg=\dimen180
+\pgfplots@zmax@reg=\dimen181
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fronte
-ndlayer/tikz/libraries\tikzlibraryplotmarks.code.tex"
-File: tikzlibraryplotmarks.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2019/04/04 v3.1.2 (3.1.2)
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/librar
-ies\pgflibraryplotmarks.code.tex"
-File: pgflibraryplotmarks.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-)))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc
-.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmar
+ks.code.tex
+File: pgflibraryplotmarks.code.tex 2019/04/04 v3.1.2 (3.1.2)
+))) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2a
-enc.def"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/cyrillic/t2aenc.def
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t2aenc.
-dfu"
-File: t2aenc.dfu 2019/07/11 v1.2j UTF-8 support for inputenc
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/t2aenc.dfu
+File: t2aenc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00AB (decimal 171)
@@ -873,29 +809,17 @@ File: t2aenc.dfu 2019/07/11 v1.2j UTF-8 support for inputenc
    defining Unicode char U+2329 (decimal 9001)
    defining Unicode char U+232A (decimal 9002)
    defining Unicode char U+2423 (decimal 9251)
-   defining Unicode char U+27E8 (decimal 10216)
-   defining Unicode char U+27E9 (decimal 10217)
-   defining Unicode char U+FB00 (decimal 64256)
-   defining Unicode char U+FB01 (decimal 64257)
-   defining Unicode char U+FB02 (decimal 64258)
-   defining Unicode char U+FB03 (decimal 64259)
-   defining Unicode char U+FB04 (decimal 64260)
-   defining Unicode char U+FB05 (decimal 64261)
-   defining Unicode char U+FB06 (decimal 64262)
 ))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.d
-ef"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputen
-c.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks38
 \inpenc@posthook=\toks39
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tocloft\tocl
-oft.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 51.
 \cftparskip=\skip54
@@ -924,91 +848,80 @@ Package tocloft Info: The document has section divisions on input line 51.
 \cftbeforefigskip=\skip77
 \cftfigindent=\skip78
 \cftfignumwidth=\skip79
-\c@lofdepth=\count149
-\c@lotdepth=\count150
+\c@lofdepth=\count150
+\c@lotdepth=\count151
 \cftbeforelottitleskip=\skip80
 \cftafterlottitleskip=\skip81
 \cftbeforetabskip=\skip82
 \cfttabindent=\skip83
 \cfttabnumwidth=\skip84
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\ams
-symb.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\ams
-fonts.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks40
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
-LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\capt
-ion.sty"
-Package: caption 2019/09/01 v3.3d Customizing captions (AR)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\capt
-ion3.sty"
-Package: caption3 2019/09/01 v1.8d caption3 kernel (AR)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen186
-\captionmargin@=\dimen187
-\captionwidth=\dimen188
-\caption@tempdima=\dimen189
-\caption@indent=\dimen190
-\caption@parindent=\dimen191
-\caption@hangindent=\dimen192
+\captionmargin=\dimen182
+\captionmargin@=\dimen183
+\captionwidth=\dimen184
+\caption@tempdima=\dimen185
+\caption@indent=\dimen186
+\caption@parindent=\dimen187
+\caption@hangindent=\dimen188
 )
-\c@caption@flags=\count151
-\c@ContinuedFloat=\count152
+\c@caption@flags=\count152
+\c@ContinuedFloat=\count153
 Package caption Info: float package is loaded.
 Package caption Info: longtable package is loaded.
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\ltca
-ption.sty"
-Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2018/08/26 v1.4-95 longtable captions (AR)
 ))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/verbatimbox\
-verbatimbox.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/verbatimbox/verbatimbox.sty
 Package: verbatimbox 2014/03/12 v3.13 Routines for placing verbatim text into b
 oxes, useful in places where the verbatim environment is inaccessible. Secondar
 ily, for adding vertical buffer around an object.
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\verbat
-im.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks41
 \verbatim@line=\toks42
 \verbatim@in@stream=\read2
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/readarray\re
-adarray.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/readarray/readarray.sty
 Package: readarray 2016/11/07\ 2.0\ Routines for inputting 2D and 3D array data
  and recalling it on an element-by-element basis.
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listofitems\
-listofitems.sty"
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/listofitem
-s\listofitems.tex"
-\loi_cnt_foreach_nest=\count153
-\loi_nestcnt=\count154
+(/usr/local/texlive/2019/texmf-dist/tex/generic/listofitems/listofitems.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/listofitems/listofitems.tex
+\loi_cnt_foreach_nest=\count154
+\loi_nestcnt=\count155
 )
-Package: listofitems 2019/08/21 v1.63 Grab items in lists using user-specified 
+Package: listofitems 2019/03/03 v1.61 Grab items in lists using user-specified 
 sep char (CT)
 )
-\c@@index=\count155
-\c@@plane=\count156
-\c@@row=\count157
-\c@@col=\count158
-\c@use@args=\count159
-\c@@record=\count160
-\c@arg@index=\count161
-\c@break@count=\count162
-\c@index@count=\count163
-\c@loop@count=\count164
+\c@@index=\count156
+\c@@plane=\count157
+\c@@row=\count158
+\c@@col=\count159
+\c@use@args=\count160
+\c@@record=\count161
+\c@arg@index=\count162
+\c@break@count=\count163
+\c@index@count=\count164
+\c@loop@count=\count165
 \Arg@toks=\toks43
 \@arrayident@toks=\toks44
 \rdar@file=\read3
@@ -1016,20 +929,17 @@ sep char (CT)
 readarray: bounds checking OFF
 )
 \savedverbbox=\box46
-\c@VerbboxLineNo=\count165
-\boxtopsep=\dimen193
-\boxbottomsep=\dimen194
-\ps@tempdima=\dimen195
+\c@VerbboxLineNo=\count166
+\boxtopsep=\dimen189
+\boxbottomsep=\dimen190
+\ps@tempdima=\dimen191
 \ps@tempboxa=\box47
 \boxtop@sep=\skip85
 \boxbottom@sep=\skip86
-)
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\times
-.sty"
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fan
-cyhdr.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip87
@@ -1042,21 +952,17 @@ s
 \f@nch@O@olf=\skip94
 \f@nch@O@orf=\skip95
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\set
-space.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyp
-erref.sty"
-Package: hyperref 2019/09/28 v7.00a Hypertext links for LaTeX
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\h
-obsub-hyperref.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\h
-obsub-generic.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -1069,7 +975,7 @@ Package hobsub Info: Skipping package `ifpdf' (already loaded).
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -1091,85 +997,76 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\aux
-hook.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvo
-ptions.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen196
-\Hy@linkcounter=\count166
-\Hy@pagecounter=\count167
+\@linkdim=\dimen192
+\Hy@linkcounter=\count167
+\Hy@pagecounter=\count168
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1
-enc.def"
-File: pd1enc.def 2019/09/28 v7.00a Hyperref: PDFDocEncoding definition (HO)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count168
+\Hy@SavedSpaceFactor=\count169
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyp
-erref.cfg"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Hyper figures OFF on input line 4540.
-Package hyperref Info: Link nesting OFF on input line 4545.
-Package hyperref Info: Hyper index ON on input line 4548.
-Package hyperref Info: Plain pages OFF on input line 4555.
-Package hyperref Info: Backreferencing OFF on input line 4560.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4793.
-\c@Hy@tempcnt=\count169
-LaTeX Info: Redefining \url on input line 5152.
-\XeTeXLinkMargin=\dimen197
-\Fld@menulength=\count170
-\Field@Width=\dimen198
-\Fld@charsize=\dimen199
-Package hyperref Info: Hyper figures OFF on input line 6423.
-Package hyperref Info: Link nesting OFF on input line 6428.
-Package hyperref Info: Hyper index ON on input line 6431.
-Package hyperref Info: backreferencing OFF on input line 6438.
-Package hyperref Info: Link coloring OFF on input line 6443.
-Package hyperref Info: Link coloring with OCG OFF on input line 6448.
-Package hyperref Info: PDF/A mode OFF on input line 6453.
-LaTeX Info: Redefining \ref on input line 6493.
-LaTeX Info: Redefining \pageref on input line 6497.
-\Hy@abspage=\count171
-\c@Item=\count172
-\c@Hfootnote=\count173
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count170
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen193
+\Fld@menulength=\count171
+\Field@Width=\dimen194
+\Fld@charsize=\dimen195
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count172
+\c@Item=\count173
+\c@Hfootnote=\count174
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpd
-ftex.def"
-File: hpdftex.def 2019/09/28 v7.00a Hyperref driver for pdfTeX
-\Fld@listcount=\count174
-\c@bookmark@seq@number=\count175
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count175
+\c@bookmark@seq@number=\count176
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rer
-unfilecheck.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip96
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/algorithm2e\
-algorithm2e.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
 Package: algorithm2e 2017/07/18 v5.2 algorithms environments
-\c@AlgoLine=\count176
+\c@AlgoLine=\count177
 \algocf@hangindent=\skip97
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ifoddpage\if
-oddpage.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count177
+\c@checkoddpage=\count178
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/relsize\rels
-ize.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/relsize/relsize.sty
 Package: relsize 2013/03/29 ver 4.1
 )
 \skiptotal=\skip98
@@ -1180,12 +1077,12 @@ Package: relsize 2013/03/29 ver 4.1
 \skiplength=\skip103
 \algomargin=\skip104
 \skipalgocfslide=\skip105
-\algowidth=\dimen256
-\inoutsize=\dimen257
-\inoutindent=\dimen258
-\interspacetitleruled=\dimen259
-\interspacealgoruled=\dimen260
-\interspacetitleboxruled=\dimen261
+\algowidth=\dimen196
+\inoutsize=\dimen197
+\inoutindent=\dimen198
+\interspacetitleruled=\dimen199
+\interspacealgoruled=\dimen256
+\interspacetitleboxruled=\dimen257
 \algocf@ruledwidth=\skip106
 \algocf@inoutbox=\box48
 \algocf@inputbox=\box49
@@ -1202,154 +1099,141 @@ Package: relsize 2013/03/29 ver 4.1
 \algoheightrule=\skip113
 \algotitleheightruledefault=\skip114
 \algotitleheightrule=\skip115
-\c@algocfline=\count178
-\c@algocfproc=\count179
-\c@algocf=\count180
+\c@algocfline=\count179
+\c@algocfproc=\count180
+\c@algocf=\count181
 \algocf@algoframe=\box54
 \algocf@algobox=\box55
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fronte
-ndlayer/tikz/libraries\tikzlibrarymatrix.code.tex"
-File: tikzlibrarymatrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarymatrix.code.tex
+File: tikzlibrarymatrix.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fronte
-ndlayer/tikz/libraries\tikzlibrarychains.code.tex"
-File: tikzlibrarychains.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarychains.code.tex
+File: tikzlibrarychains.code.tex 2019/04/04 v3.1.2 (3.1.2)
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fronte
-ndlayer/tikz/libraries\tikzlibraryarrows.code.tex"
-File: tikzlibraryarrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/librar
-ies\pgflibraryarrows.code.tex"
-File: pgflibraryarrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\arrowsize=\dimen262
-))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsm
-ath.sty"
-Package: amsmath 2019/04/01 v2.17c AMS math features
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
+code.tex
+File: pgflibraryarrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\arrowsize=\dimen258
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip116
 
 For additional information on amsmath, use the `?' option.
-
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amst
-ext.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsg
-en.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks45
-\ex@=\dimen263
+\ex@=\dimen259
 ))
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsb
-sy.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen264
+\pmbraise@=\dimen260
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amso
-pn.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count181
-LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count182
-\leftroot@=\count183
-LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count184
-\DOTSCASE@=\count185
-LaTeX Info: Redefining \ldots on input line 486.
-LaTeX Info: Redefining \dots on input line 489.
-LaTeX Info: Redefining \cdots on input line 610.
+\inf@bad=\count182
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count183
+\leftroot@=\count184
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count185
+\DOTSCASE@=\count186
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
 \Mathstrutbox@=\box56
 \strutbox@=\box57
-\big@size=\dimen265
-LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count186
-\c@MaxMatrixCols=\count187
+\big@size=\dimen261
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count187
+\c@MaxMatrixCols=\count188
 \dotsspace@=\muskip11
-\c@parentequation=\count188
-\dspbrk@lvl=\count189
+\c@parentequation=\count189
+\dspbrk@lvl=\count190
 \tag@help=\toks46
-\row@=\count190
-\column@=\count191
-\maxfields@=\count192
+\row@=\count191
+\column@=\count192
+\maxfields@=\count193
 \andhelp@=\toks47
-\eqnshift@=\dimen266
-\alignsep@=\dimen267
-\tagshift@=\dimen268
-\tagwidth@=\dimen269
-\totwidth@=\dimen270
-\lineht@=\dimen271
+\eqnshift@=\dimen262
+\alignsep@=\dimen263
+\tagshift@=\dimen264
+\tagwidth@=\dimen265
+\totwidth@=\dimen266
+\lineht@=\dimen267
 \@envbody=\toks48
 \multlinegap=\skip117
 \multlinetaggap=\skip118
 \mathdisplay@stack=\toks49
-LaTeX Info: Redefining \[ on input line 2855.
-LaTeX Info: Redefining \] on input line 2856.
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lastpage\las
-tpage.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lastpage/lastpage.sty
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lis
-tings.sty"
-\lst@mode=\count193
+(/usr/local/texlive/2019/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count194
 \lst@gtempboxa=\box58
 \lst@token=\toks50
-\lst@length=\count194
-\lst@currlwidth=\dimen272
-\lst@column=\count195
-\lst@pos=\count196
-\lst@lostspace=\dimen273
-\lst@width=\dimen274
-\lst@newlines=\count197
-\lst@lineno=\count198
-\lst@maxwidth=\dimen275
+\lst@length=\count195
+\lst@currlwidth=\dimen268
+\lst@column=\count196
+\lst@pos=\count197
+\lst@lostspace=\dimen269
+\lst@width=\dimen270
+\lst@newlines=\count198
+\lst@lineno=\count199
+\lst@maxwidth=\dimen271
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lst
-misc.sty"
-File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
-\c@lstnumber=\count199
-\lst@skipnumbers=\count266
+(/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+\c@lstnumber=\count266
+\lst@skipnumbers=\count267
 \lst@framebox=\box59
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lis
-tings.cfg"
-File: listings.cfg 2019/09/10 1.8c listings configuration
+(/usr/local/texlive/2019/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/02/27 1.8b listings configuration
 ))
-Package: listings 2019/09/10 1.8c (Carsten Heinz)
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enu
-mitem.sty"
-Package: enumitem 2019/06/20 v3.9 Customized lists
+(/usr/local/texlive/2019/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/02/04 v3.8 Customized lists
 \labelindent=\skip119
-\enit@outerparindent=\dimen276
+\enit@outerparindent=\dimen272
 \enit@toks=\toks51
 \enit@inbox=\box60
-\enit@count@id=\count267
-\enitdp@description=\count268
+\enit@count@id=\count268
+\enitdp@description=\count269
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfig\subfi
-g.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/subfig/subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
-\c@KVtest=\count269
+\c@KVtest=\count270
 \sf@farskip=\skip120
-\sf@captopadj=\dimen277
+\sf@captopadj=\dimen273
 \sf@capskip=\skip121
 \sf@nearskip=\skip122
-\c@subfigure=\count270
-\c@subfigure@save=\count271
-\c@subtable=\count272
-\c@subtable@save=\count273
+\c@subfigure=\count271
+\c@subfigure@save=\count272
+\c@subtable=\count273
+\c@subtable@save=\count274
 \sf@top=\skip123
 \sf@bottom=\skip124
 )
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lst
-lang1.sty"
-File: lstlang1.sty 2019/09/10 1.8c listings language file
-) (cybsec-thesis.aux)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/02/27 1.8b listings language file
+)
+(./cybsec-thesis.aux)
 \openout1 = `cybsec-thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
@@ -1365,21 +1249,17 @@ LaTeX Font Info:    ... okay on input line 64.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
 LaTeX Font Info:    ... okay on input line 64.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 64.
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 6
-4.
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 64.
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2a
-cmr.fd"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 LaTeX Font Info:    ... okay on input line 64.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
 LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 64
-.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 64.
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1ptm
-.fd"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 *geometry* driver: auto-detecting
@@ -1416,28 +1296,23 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\
-supp-pdf.mkii"
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count274
-\scratchdimen=\dimen278
+\scratchcounter=\count275
+\scratchdimen=\dimen274
 \scratchbox=\box61
-\nofMPsegments=\count275
-\nofMParguments=\count276
+\nofMPsegments=\count276
+\nofMParguments=\count277
 \everyMPshowfont=\toks52
-\MPscratchCnt=\count277
-\MPscratchDim=\dimen279
-\MPnumerator=\count278
-\makeMPintoPDFobject=\count279
+\MPscratchCnt=\count278
+\MPscratchDim=\dimen275
+\MPnumerator=\count279
+\makeMPintoPDFobject=\count280
 \everyMPtoPDFconversion=\toks53
-)
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\eps
-topdf-base.sty"
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grf
-ext.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1446,7 +1321,12 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-) ABD: EveryShipout initializing macros
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ABD: EveryShipout initializing macros
 
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
@@ -1466,73 +1346,71 @@ Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box62
 Package hyperref Info: Link coloring OFF on input line 64.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nam
-eref.sty"
-Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
-
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\g
-ettitlestring.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count280
+\c@section@level=\count281
 )
 LaTeX Info: Redefining \ref on input line 64.
 LaTeX Info: Redefining \pageref on input line 64.
 LaTeX Info: Redefining \nameref on input line 64.
- (cybsec-thesis.out) (cybsec-thesis.out)
+
+(./cybsec-thesis.out) (./cybsec-thesis.out)
 \@outlinefile=\write4
 \openout4 = `cybsec-thesis.out'.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 64.
-\c@lstlisting=\count281
- [1{C:/Users/Urmo Lihten/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+\c@lstlisting=\count282
+ [1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ] [2]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 144.
  [3] [4]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 175
-.
+LaTeX Font Info:    Try loading font information for U+msa on input line 175.
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\ums
-a.fd"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 175
-.
+LaTeX Font Info:    Try loading font information for U+msb on input line 175.
 
-("C:\Users\Urmo Lihten\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\ums
-b.fd"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [5] [6] (cybsec-thesis.toc
+) [5] [6]
+(./cybsec-thesis.toc
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
 )
 \tf@toc=\write5
 \openout5 = `cybsec-thesis.toc'.
 
- [7] (cybsec-thesis.lof)
+ [7] (./cybsec-thesis.lof)
 \tf@lof=\write6
 \openout6 = `cybsec-thesis.lof'.
 
- [8]
-(cybsec-thesis.lot)
+ [8] (./cybsec-thesis.lot)
 \tf@lot=\write7
 \openout7 = `cybsec-thesis.lot'.
 
- [9]
+
+[9]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 206.
- [10] [11] [12] [13] (cybsec-thesis.bbl)
+ [10] [11] [12] [13] (./cybsec-thesis.bbl
 
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+) 
 AED: lastpage setting LastPage
 [14]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 259.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 259.
- (cybsec-thesis.aux)
+ (./cybsec-thesis.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 259.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 259.
 Package rerunfilecheck Info: File `cybsec-thesis.out' has not changed.
@@ -1540,23 +1418,23 @@ Package rerunfilecheck Info: File `cybsec-thesis.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 259.
  ) 
 Here is how much of TeX's memory you used:
- 33896 strings out of 492452
- 776400 string characters out of 3117259
- 1136943 words of memory out of 3000000
- 37631 multiletter control sequences out of 15000+200000
- 54219 words of font info for 62 fonts, out of 3000000 for 9000
+ 33410 strings out of 492616
+ 761158 string characters out of 6129480
+ 1128108 words of memory out of 5000000
+ 36708 multiletter control sequences out of 15000+600000
+ 50293 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,11n,98p,781b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Urmo Lihten/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/
-8r.enc}<C:/Users/Urmo Lihten/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmr8.pfb><C:/Users/Urmo Lihten/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/public/amsfonts/symbols/msam7.pfb><C:/Users/Urmo Lihten/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Urmo Lihten/
-AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Ur
-mo Lihten/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on cybsec-thesis.pdf (14 pages, 88370 bytes).
+ 62i,11n,96p,778b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
+ive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/local/t
+exlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/201
+9/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-di
+st/fonts/type1/urw/times/utmri8a.pfb>
+Output written on cybsec-thesis.pdf (14 pages, 68295 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
+ 169 PDF objects out of 1000 (max. 8388607)
+ 130 compressed objects within 2 object streams
+ 24 named destinations out of 1000 (max. 500000)
  181 words of extra memory for PDF output out of 10000 (max. 10000000)
 
