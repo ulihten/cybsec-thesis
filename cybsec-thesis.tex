@@ -246,10 +246,12 @@ Selected data include health care organizations national registry code, healthca
 
 Organizations and persons Identification and document numbers are needed to maintain relationships between differents requests and chain together requests and documents queried or sent and form a process model based on the data. This helps to find differences in process models used by organizations and give insight what could be better or data is being used. 
 
-Anonymized data is generated to hide any visiable and person identifiable information from the logs since we do not need to find out specific persons data - we have to maintain the requests and responses relationships to a process model what needs to be conformed and any misuse should be identifiable. 
+Anonymized data is generated to hide any visiable and person identifiable information from the logs since we do not need to find out specific persons data - we have to maintain the requests and responses relationships to a process model done for specific person or their medical case what needs to be conformed and any misuse should be identifiable. 
 
-Data cleansing is done by pulling logs and parsing them through and extracting required data fields to a table format. 
+Data cleansing is done by pulling logs and parsing them through and extracting required data fields to a table format 
+
 \subsection{Data representation}
+Gathered data is saved in a table format in a csv file. Every row describes a log entry and column represents log entries attributes what have been previously extracted and were limited to in regards of the information protection law and information security requirements. 
 
 \subsection{Methods for parsing logs for needed data}
 
