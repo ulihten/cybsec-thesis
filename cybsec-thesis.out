@@ -3,7 +3,7 @@
 \BOOKMARK [1][-]{section.2}{Approach overview}{}% 3
 \BOOKMARK [2][-]{subsection.2.1}{Data cleansing}{section.2}% 4
 \BOOKMARK [2][-]{subsection.2.2}{Data representation}{section.2}% 5
-\BOOKMARK [2][-]{subsection.2.3}{...}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.3}{Methods for parsing logs for needed data}{section.2}% 6
 \BOOKMARK [1][-]{section.3}{Discovering process models}{}% 7
 \BOOKMARK [2][-]{subsection.3.1}{Clustering request types}{section.3}% 8
 \BOOKMARK [1][-]{section.4}{Conclusion}{}% 9

@@ -236,7 +236,19 @@ Usually every request is made following a certain process. This is agreed upon o
 Every request has to be parsed for certain data fields, which give input for the process mining tools to form a process model. After that, a conformance check can be made to find anomalies and machine learning helps to find out data misusages. 
 
 \subsection{Data cleansing}
+Logs have large amount data and not every piece of it is needed. These have to be cleansed and selected what to use with machine learning algorithms. If data is doubled (same thing but different representation) then the doubled data does not give anything new value to analyze and learn. Other data, that does not help the inital goal, also is not valueable. 
 
+Goal is to detect abuse and misuse of data requests. These requests have standardized fields of objects and their values according to X-Road request and response structure and international electronic health record HL7 standard. 
+
+To avoid any friction of the data protection law and persons private data, selection of data fields is chosen. This is conformed with Health and Welfare Informations Systems Centre information security specialists and ethics commitee in Ministry of Social Affairs. 
+
+Selected data include health care organizations national registry code, healthcare organization workers identification code (who made the request), request type, response type, request timestamp, response timestamp, document type, sent document number (anonymized), responsed document number(s) (anonyimized), document forwarded timestamp, patients identification code (anonymized). 
+
+Organizations and persons Identification and document numbers are needed to maintain relationships between differents requests and chain together requests and documents queried or sent and form a process model based on the data. This helps to find differences in process models used by organizations and give insight what could be better or data is being used. 
+
+Anonymized data is generated to hide any visiable and person identifiable information from the logs since we do not need to find out specific persons data - we have to maintain the requests and responses relationships to a process model what needs to be conformed and any misuse should be identifiable. 
+
+Data cleansing is done by pulling logs and parsing them through and extracting required data fields to a table format. 
 \subsection{Data representation}
 
 \subsection{Methods for parsing logs for needed data}
