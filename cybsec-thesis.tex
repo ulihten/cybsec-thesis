@@ -35,6 +35,8 @@
 \usepackage{listings} % syntax highlight
 \usepackage{enumitem}
 \usepackage{subfig}
+\usepackage{lscape}
+\usepackage{tabularx}
 
 % redefine section so that it would start every time on a new page
 \let\stdsection\section
@@ -251,10 +253,10 @@ Anonymized data is generated to hide any visiable and person identifiable inform
 Data cleansing is done by pulling logs and parsing them through and extracting required data fields to a table format 
 
 \subsection{Data representation}
-Gathered data is saved in a table format in a csv file. Every row describes a log entry and column represents log entries attributes what have been previously extracted and were limited to in regards of the information protection law and information security requirements. 
+Gathered data is saved in a table format Python module Pandas dataframe (similar to excel spreadsheet or CSV file). Every row describes a log entry and column represents log entries attributes what have been previously extracted and were limited to in regards of the information protection law and information security requirements. 
 
 \subsection{Methods for parsing logs for needed data}
-Logs are collected, viewable and searchable through ELK stack (ElasticSearch, Logstash, Kibana). From x-road servers each data request and response is sent to a centralized logging system called Logstash. After processing the incoming log streams, data is stored (or stashed) in ElasticSearch for being searchable. Kibana allows to do analytics and graphs based on that previously stored data. 
+Logs are collected, viewable and searchable through ELK stack (ElasticSearch, Logstash, Kibana). From x-Road servers each data request and response is sent to a centralized logging system called Logstash. After processing the incoming log streams, data is stored (or stashed) in ElasticSearch for being searchable. Kibana allows to do analytics and graphs based on that previously stored data. 
 
 Data is stored in a JSON format. Unfortunately X-road requests and responsed are in SOAP XML format which means there is XML code in JSON. XML has to be extracted out from a JSON array from a specific position. After extracting, XML has to be parsed to get needed values and place these in a dataset in a table. Keeping in mind, that in the JSON part from ElasticSearch has other metadata fields for the log line and is also needed to form a process model and chains for the happend processes. 
 
@@ -268,6 +270,47 @@ Dataset example from ElasticSearch first query is imaged below and after elimina
 	\caption{first dataset example from elasticsearch to python pandas dataframe}
 	\label{fig:first dataset example}
 \end{figure}
+
+Actual query and response part of the log row (the column named "message") is in XML code and some needed values for process modeling can be get only from there. This also provides some diffeculties since the queries can contain simple XML parameters and others contain large XML codes in an SOAP XML envelope. Meaning parsing through different types of queries of different services might require multiple XML code parsing loops before needed value can be found and extracted for process mining to have basis to work on. 
+
+ Event names in the Estonian Health Information System (leaving out the external services that are being used to create some of the health record documents) are described with XML template ID which corresponds to the HL7 standardized documents. Descriptions to these are published by Health and Welface Information Systems Centre's publication center webservice located at http://pub.e-tervis.ee . 
+
+
+\begin{landscape}
+
+\begin{table}[]
+	\centering
+	\small
+	\begin{tabular}{lllllllll}
+		\hline
+		timestamp &
+		response &
+		member &
+		identification &
+		subsystem &
+		document/query type &
+		query id &
+		document id sent &
+		document id(s) received in response \\ \hline
+		2020-03-16T00:00:01.092Z & False & 70009770 & EE11111111111 & digilugu & 1.3.6.1.4.1.28284.6.1.1.172 & b551911b-6e5a & -              & -              \\
+		2020-03-16T00:00:02:092Z &
+		True &
+		70009770 &
+		EE11111111111 &
+		digilugu &
+		1.3.6.1.4.1.28284.6.1.1.173 &
+		b551911b-6e5a &
+		- &
+		20200316000000,20200315232000 \\
+		2020-03-16T00:00:05.092Z & False & 70007446 & EE11111111112 & hksos    & 1.3.6.1.4.1.28284.6.1.1.169 & 17fad00b-13b0 & 20200315235921 &                \\
+		2020-03-16T00:00:07.324Z & True  & 70009770 & EE11111111112 & digilugu & 1.3.6.1.4.1.28284.6.1.1.49  & 17fad00b-13b0 & -               & 20200315235921 \\ \hline
+	\end{tabular}
+
+	\caption{}
+	\label{tab:dataset example}
+\end{table}
+\end{landscape}
+
 
 \section{Discovering process models}
 
