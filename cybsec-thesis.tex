@@ -258,9 +258,9 @@ Logs are collected, viewable and searchable through ELK stack (ElasticSearch, Lo
 
 Data is stored in a JSON format. Unfortunately X-road requests and responsed are in SOAP XML format which means there is XML code in JSON. XML has to be extracted out from a JSON array from a specific position. After extracting, XML has to be parsed to get needed values and place these in a dataset in a table. Keeping in mind, that in the JSON part from ElasticSearch has other metadata fields for the log line and is also needed to form a process model and chains for the happend processes. 
 
-Python scripting is used to connect ElasticSeach API and pull data from an specific index related to X-road security server logs. Each log row is going to be parsed and 'message' column contains the most valueable part of the log row -  the request or the response , what has been sent through. Other parts are also relevant - timestamp, response or not, what service is being queried and what organization did the query. 
+Python scripting is used to connect ElasticSeach API and pull data from an specific index related to X-road security server logs. Each log row is going to be parsed and 'message' column contains the most valueable part of the log row -  the request or the response , what has been sent through. Other parts are also relevant - timestamp, is it a reponse log row or not, what service is being queried and what organization did the query. 
 
-Dataset exaple after first parsing through of JSON code. 
+Dataset example from ElasticSearch first query is imaged below and after eliminating unnessesary columns called "tags" and "archived" which are logging system specific values and do not provide additional value to the query logs. Other values are time (when it came in to the logging server), is it a response log row or not, query subsystem code (what service or system made that query), query identification code, timestamp of the query or response, message (payload of the query or response), memberclass (what type of organization made the query - national organisation or government entity), version of the document in the logging server, id of the query in the logging system. hostname (from which security server or cluster it came from, membercode as the organization registration number in Estonia). 
 
 \begin{figure}[h]
 	\centering
