@@ -256,9 +256,18 @@ Gathered data is saved in a table format in a csv file. Every row describes a lo
 \subsection{Methods for parsing logs for needed data}
 Logs are collected, viewable and searchable through ELK stack (ElasticSearch, Logstash, Kibana). From x-road servers each data request and response is sent to a centralized logging system called Logstash. After processing the incoming log streams, data is stored (or stashed) in ElasticSearch for being searchable. Kibana allows to do analytics and graphs based on that previously stored data. 
 
-Data is stored in a JSON format. Unfortunately X-road requests and responsed are in SOAP XML format which means there is XML code in a JSON code. XML has to be extracted out from a JSON array from a specific position. After extracting, XML has to be parsed to get needed values and place these in a dataset in a table. Keeping in mind, that in the JSON part has other metadata for the log line and is also needed to form a process model and chains for the happend processes. 
+Data is stored in a JSON format. Unfortunately X-road requests and responsed are in SOAP XML format which means there is XML code in JSON. XML has to be extracted out from a JSON array from a specific position. After extracting, XML has to be parsed to get needed values and place these in a dataset in a table. Keeping in mind, that in the JSON part from ElasticSearch has other metadata fields for the log line and is also needed to form a process model and chains for the happend processes. 
 
-Python scripting is used to connect ElasticSeach API and pull data from an specific index related to X-road security server logs. Each log row is going to be parsed and 'message' column contains the most valueable part of the log row -  the request or the response , what has been sent through. Other parts are also relevant - timestamp, response or not, what service is being queried and what organization queried it. 
+Python scripting is used to connect ElasticSeach API and pull data from an specific index related to X-road security server logs. Each log row is going to be parsed and 'message' column contains the most valueable part of the log row -  the request or the response , what has been sent through. Other parts are also relevant - timestamp, response or not, what service is being queried and what organization did the query. 
+
+Dataset exaple after first parsing through of JSON code. 
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=15cm]{img/first_dataset_example.png} % edit the width according to need
+	\caption{first dataset example from elasticsearch to python pandas dataframe}
+	\label{fig:first dataset example}
+\end{figure}
 
 \section{Discovering process models}
 
