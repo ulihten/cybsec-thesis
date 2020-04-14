@@ -273,8 +273,9 @@ Dataset example from ElasticSearch first query is imaged below and after elimina
 
 Actual query and response part of the log row (the column named "message") is in XML code and some needed values for process modeling can be get only from there. This also provides some diffeculties since the queries can contain simple XML parameters and others contain large XML codes in an SOAP XML envelope. Meaning parsing through different types of queries of different services might require multiple XML code parsing loops before needed value can be found and extracted for process mining to have basis to work on. 
 
- Event names in the Estonian Health Information System (leaving out the external services that are being used to create some of the health record documents) are described with XML template ID which corresponds to the HL7 standardized documents. Descriptions to these are published by Health and Welface Information Systems Centre's publication center webservice located at http://pub.e-tervis.ee . 
+ Event names in the Estonian Health Information System (leaving out the external services that are being used to create some of the health record documents) are described with XML template ID codes which corresponds to the HL7 standardized documents. Descriptions to these are published by Health and Welface Information Systems Centre's publication center webservice located at http://pub.e-tervis.ee . 
 
+Following is a dataset example to which log parsing and needed value extraction has to reach, to put togeter an event log for process mining procedure. 
 
 \begin{landscape}
 
@@ -306,7 +307,7 @@ Actual query and response part of the log row (the column named "message") is in
 		2020-03-16T00:00:07.324Z & True  & 70009770 & EE11111111112 & digilugu & 1.3.6.1.4.1.28284.6.1.1.49  & 17fad00b-13b0 & -               & 20200315235921 \\ \hline
 	\end{tabular}
 
-	\caption{}
+	\caption{TO BE dataset example}
 	\label{tab:dataset example}
 \end{table}
 \end{landscape}
