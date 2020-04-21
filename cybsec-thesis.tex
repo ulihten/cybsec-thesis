@@ -229,7 +229,7 @@ After good validation, request is sent to the integration servers, what parse th
 
 X-road system logs the response message also to the cental logging system with its metadata. 
 
-All the logged requests and responses are stored using syslog to the ElasticSearch-Logstash-Kibana cluster for parsing, searching and visualizing the information, that has gone through the HWISC X-road servers while communicating with the client. 
+All the logged requests and responses are sent to ElasticSearch-Logstash-Kibana cluster for parsing, searching and visualizing the information, that has gone through the HWISC X-road servers while communicating with the client. 
 
 Client can be almost any organization or even a person, when they have a specific access to a service or a program, what has the right to communicate with the Health Information System. This can be specific program for the healthcare organizations, what has the ability to put together XML SOAP messages and send them through organizations X-road security server and parse the answers to a human readable form needed by the workers of that institution. 
 This is usually typical for largers orgnizations. For smaller healthcare providers there is a possibility to use mini information system portals called MISP, which is usully provided by service managers and Health Information System also offers this kind of portal for certain parties. 
@@ -239,6 +239,13 @@ HWISC has also created several client applications for the specific healthcare p
 All the mentioned client systems communicate through X-road security servers, even if the client system is housed inside the HWISC server park besides the Health Information System. This allows all the requests to be logged in one specific place and store the logs centrally. Other ways for communicating with the system is prohibited and thus the gateway for the system is the X-road system and there is no need to look for others channels where requests might go through and logged. 
 
 Health Information System also acts as a client service, when needing to communicate with a external service. When person identity has to be verified or healthcare professional has a approved licence to work, system makes a seperate XML request through X-road security server to the external party for the needed information. This query is also logged and is a part of a process when a incoming request matches to a job, which requires this kind of action. 
+
+\subsection{Client systems and process descriptions}
+Every client system is using standardized XML templates when sending or querying information. Also these programs, portals and applications vary a lot and this means, these are prone to errors or handmade mistakes made by developers as the root of the cause and making healthcare provides do incorrect requests. 
+
+If code quality control is used on the made software, this eliminates or minimizes the probability that processes are broken within the software when communicating with the Health Information System. As this leaves with a possibility that processes are violated and requests are made illegally and without a consent by the healthcare professional. As this is a violation of the persons privacy, the information system or servers usually do not know that and give out data. 
+
+Although some requests have dependentacies, that some piece of data or documents has to be previously inserted to the system, this does not guarantee that the requested data is not used with malicious intentions. 
 
 %\begin{figure}[h]
 %	\centering

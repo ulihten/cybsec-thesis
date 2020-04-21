@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.25)  21 APR 2020 16:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.25)  21 APR 2020 18:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1425,65 +1425,53 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 [9]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 208.
- [10]
-Overfull \hbox (7.83209pt too wide) in paragraph at lines 232--233
-[]\T1/ptm/m/n/12 All the logged re-quests and re-sponses are stored us-ing sys-
-log to the ElasticSearch-Logstash-
- []
-
-
-Overfull \hbox (4.78471pt too wide) in paragraph at lines 232--233
-\T1/ptm/m/n/12 Kibana clus-ter for pars-ing, search-ing and vi-su-al-iz-ing the
- in-for-ma-tion, that has gone through
- []
-
-[11] [12] [13]
-Overfull \hbox (2.87726pt too wide) in paragraph at lines 269--270
+ [10] [11] [12] [13] [14]
+Overfull \hbox (2.87726pt too wide) in paragraph at lines 276--277
 \T1/ptm/m/n/12 (anonymized), re-sponsed doc-u-ment num-ber(s) (anony-imized), d
 oc-u-ment for-warded times-
  []
 
-[14]
-<img/first_dataset_example.png, id=152, 1484.54625pt x 167.62625pt>
+[15]
+<img/first_dataset_example.png, id=161, 1484.54625pt x 167.62625pt>
 File: img/first_dataset_example.png Graphic file (type png)
 <use img/first_dataset_example.png>
-Package pdftex.def Info: img/first_dataset_example.png  used on input line 291.
+Package pdftex.def Info: img/first_dataset_example.png  used on input line 298.
 
 (pdftex.def)             Requested size: 426.79134pt x 48.19089pt.
- [15 <./img/first_dataset_example.png>] [16]
+ [16 <./img/first_dataset_example.png>] [17]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 304.
+               Default added (so using `tbp') on input line 311.
 
 
-Overfull \hbox (182.353pt too wide) in paragraph at lines 307--331
+Overfull \hbox (182.353pt too wide) in paragraph at lines 314--338
  [][] 
  []
 
-[17] [18
+[18] [19
 
 
-] [19] (./cybsec-thesis.bbl
+] [20] (./cybsec-thesis.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
 ) 
 AED: lastpage setting LastPage
-[20]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 353.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 353.
+[21]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 360.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 360.
  (./cybsec-thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 353.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 353.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 360.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 360.
 Package rerunfilecheck Info: File `cybsec-thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 7A62507FE6700DC55E06E9A4ACADAEE5;671.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 353.
+(rerunfilecheck)             Checksum: FE439313430AA4B7427BA17EDD31130D;760.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 360.
  ) 
 Here is how much of TeX's memory you used:
- 33551 strings out of 492616
- 763097 string characters out of 6129480
+ 33554 strings out of 492616
+ 763134 string characters out of 6129480
  1131172 words of memory out of 5000000
- 36828 multiletter control sequences out of 15000+600000
+ 36829 multiletter control sequences out of 15000+600000
  54563 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,11n,96p,829b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1493,10 +1481,10 @@ ive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/local/t
 exlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/201
 9/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-di
 st/fonts/type1/urw/times/utmri8a.pfb>
-Output written on cybsec-thesis.pdf (20 pages, 437881 bytes).
+Output written on cybsec-thesis.pdf (21 pages, 438831 bytes).
 PDF statistics:
- 208 PDF objects out of 1000 (max. 8388607)
- 161 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
- 194 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 217 PDF objects out of 1000 (max. 8388607)
+ 169 compressed objects within 2 object streams
+ 35 named destinations out of 1000 (max. 500000)
+ 202 words of extra memory for PDF output out of 10000 (max. 10000000)
 
