@@ -218,6 +218,28 @@ When a persons private data such as medical information is viewed and used, then
 
 To solve this problem is to detect health records data misusage and errors in the process as early as possible by analyzing Health Information System logs what include data requests and documents sent. Learning about the different processes in which different queries has to be made within patient treatment and data forwarded. This gives the possibility to detect processes and its anomalies - queries and documents sent when not needed or out of the ordinary. Upon problem detection healthcare service provider can be contacted and be questioned, if action was intententional or not. Also to find out the reason. If the misuse is very serious, proper action has to be taken by proper authorities. 
 
+\subsection{X-road and Estonian Health Information System description}
+Health and Welfare Information System Center hosts its own X-road security servers and Health Information System service with clustered hosts in several layers. 
+
+When a request comes in through X-road service, preliminary access list verification is done to find out if the sender has the right to send the message to the system. This request with x-road metadata is logged to the central logging system of HWISC. 
+
+When authorization is approved, request is forwaded to validation service hosts for analyzing the incoming message and checking if it is correctly formed to the standards and according to the rules allows or denies further forwarding. When message has errors in it or is unreadable, the validation service issues a error message and sends it back a as a response to the client. 
+
+After good validation, request is sent to the integration servers, what parse the message and analyze what kind of a document or request it is and exceute according jobs to store or gather data in order to generate a response needed. If it is a patients healthcare document, then it is saved in the database and valid response of success is issued. If it is a request of already stored documents or information query, then certain jobs are runned to pull data out of the Health Information System and if needed, from external services and result is combined in to a response what back though the validation service validating the response and to the X-road service to give a correct response for the client. 
+
+X-road system logs the response message also to the cental logging system with its metadata. 
+
+All the logged requests and responses are stored using syslog to the ElasticSearch-Logstash-Kibana cluster for parsing, searching and visualizing the information, that has gone through the HWISC X-road servers while communicating with the client. 
+
+Client can be almost any organization or even a person, when they have a specific access to a service or a program, what has the right to communicate with the Health Information System. This can be specific program for the healthcare organizations, what has the ability to put together XML SOAP messages and send them through organizations X-road security server and parse the answers to a human readable form needed by the workers of that institution. 
+This is usually typical for largers orgnizations. For smaller healthcare providers there is a possibility to use mini information system portals called MISP, which is usully provided by service managers and Health Information System also offers this kind of portal for certain parties. 
+
+HWISC has also created several client applications for the specific healthcare providers to use in order to support their work, make information about the patients available to them and also documents their relationship with their patient without any larger information system costs for seperate infrastructure that is not worth to house locally within the healthcare provider. For example ambulance service providers or smaller family doctor or any specialized practises. 
+
+All the mentioned client systems communicate through X-road security servers, even if the client system is housed inside the HWISC server park besides the Health Information System. This allows all the requests to be logged in one specific place and store the logs centrally. Other ways for communicating with the system is prohibited and thus the gateway for the system is the X-road system and there is no need to look for others channels where requests might go through and logged. 
+
+Health Information System also acts as a client service, when needing to communicate with a external service. When person identity has to be verified or healthcare professional has a approved licence to work, system makes a seperate XML request through X-road security server to the external party for the needed information. This query is also logged and is a part of a process when a incoming request matches to a job, which requires this kind of action. 
+
 %\begin{figure}[h]
 %	\centering
 %	\includegraphics[width=3cm]{img/example.png} % edit the width according to need
@@ -307,7 +329,7 @@ Following is a dataset example to which log parsing and needed value extraction 
 		2020-03-16T00:00:07.324Z & True  & 70009770 & EE11111111112 & digilugu & 1.3.6.1.4.1.28284.6.1.1.49  & 17fad00b-13b0 & -               & 20200315235921 \\ \hline
 	\end{tabular}
 
-	\caption{TO BE dataset example}
+	\caption{TO BE dataset example in format needed for doing process mining}
 	\label{tab:dataset example}
 \end{table}
 \end{landscape}
